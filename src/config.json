@@ -1,0 +1,114 @@
+{
+  "holdings": [
+    {
+      "id": "uti-nifty-50",
+      "name": "UTI Nifty 50 Index Fund - Direct Growth",
+      "type": "mf",
+      "schemeCode": 108973,
+      "category": "large-cap-index",
+      "investedAmount": 50000,
+      "investedDate": "2021-01-15",
+      "peRatio": null,
+      "pe5YearMedian": null
+    },
+    {
+      "id": "parag-parikh-flexi",
+      "name": "Parag Parikh Flexi Cap Fund - Direct Growth",
+      "type": "mf",
+      "schemeCode": 108976,
+      "category": "flexi-cap",
+      "investedAmount": 75000,
+      "investedDate": "2020-06-20",
+      "peRatio": null,
+      "pe5YearMedian": null
+    },
+    {
+      "id": "mirae-elss",
+      "name": "Mirae Asset ELSS Tax Saver Fund - Direct Growth",
+      "type": "mf",
+      "schemeCode": 108974,
+      "category": "mid-cap",
+      "investedAmount": 50000,
+      "investedDate": "2021-04-01",
+      "peRatio": null,
+      "pe5YearMedian": null
+    },
+    {
+      "id": "hdfc-midcap",
+      "name": "HDFC Mid Cap Opportunities Fund - Direct Growth",
+      "type": "mf",
+      "schemeCode": 108975,
+      "category": "mid-cap",
+      "investedAmount": 40000,
+      "investedDate": "2021-09-10",
+      "peRatio": null,
+      "pe5YearMedian": null
+    },
+    {
+      "id": "bandhan-smallcap",
+      "name": "Bandhan Small Cap Fund - Direct Growth",
+      "type": "mf",
+      "schemeCode": 147946,
+      "category": "small-cap",
+      "investedAmount": 30000,
+      "investedDate": "2022-01-01",
+      "peRatio": null,
+      "pe5YearMedian": null
+    },
+    {
+      "id": "vatech-wabag",
+      "name": "VA Tech Wabag",
+      "type": "stock",
+      "ticker": "VATECHWABAG.NS",
+      "category": "individual-stock",
+      "investedAmount": 20000,
+      "investedDate": "2022-03-15",
+      "peRatio": 25.5,
+      "pe5YearMedian": 22.0
+    },
+    {
+      "id": "lt",
+      "name": "L&T",
+      "type": "stock",
+      "ticker": "LT.NS",
+      "category": "individual-stock",
+      "investedAmount": 35000,
+      "investedDate": "2021-11-20",
+      "peRatio": 24.2,
+      "pe5YearMedian": 20.5
+    },
+    {
+      "id": "icici-bank",
+      "name": "ICICI Bank",
+      "type": "stock",
+      "ticker": "ICICIBANK.NS",
+      "category": "individual-stock",
+      "investedAmount": 25000,
+      "investedDate": "2021-07-05",
+      "peRatio": 20.8,
+      "pe5YearMedian": 19.0
+    },
+    {
+      "id": "goldbees",
+      "name": "Nippon India ETF Gold BeES",
+      "type": "etf",
+      "ticker": "GOLDBEES.NS",
+      "category": "individual-stock",
+      "investedAmount": 15000,
+      "investedDate": "2022-06-01",
+      "peRatio": null,
+      "pe5YearMedian": null
+    },
+    {
+      "id": "mon100",
+      "name": "Motilal Oswal NASDAQ 100",
+      "type": "etf",
+      "ticker": "MON100.NS",
+      "category": "individual-stock",
+      "investedAmount": 20000,
+      "investedDate": "2021-12-15",
+      "peRatio": null,
+      "pe5YearMedian": null
+    }
+  ]
+}
