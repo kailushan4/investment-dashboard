@@ -7,8 +7,7 @@
     "react-dom": "^18.2.0",
     "recharts": "^2.10.3",
     "axios": "^1.6.2",
-    "date-fns": "^2.30.0",
-    "yfinance": "^1.0.0"
+    "date-fns": "^2.30.0"
   },
   "devDependencies": {
     "react-scripts": "5.0.1",
