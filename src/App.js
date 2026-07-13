@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import HoldingsTable from './components/HoldingsTable';
 import DetailView from './components/DetailView';
 import { fetchAllHoldingsData } from './services/dataLayer';
-import config from '../config.json';
+import config from './config.json';
 
 export default function App() {
   const [holdings, setHoldings] = useState([]);
